@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Me | Ekaf Eman</title>
+    <link rel="icon" type="image/png" href="Images/image (1).jpg">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <div class="header-bar">
+        <div class="hero">
+        <img src="Images/image (7).jpg" alt="Write Web Novel With Me" class="header-banner">
+         <a href="#" class="watch-live-btn">Watch Live</a>
+        </div>
+        
+            <nav>
+                <ul>
+                    <li><a href="Index.html" class="active">Home</a></li>
+                    <li><a href="Author.html">Author</a></li>
+                    <li><a href="Rules.html">Stream Rules</a></li>
+                    <li><a href="WebNovel.html">Web-novel</a></li>
+                    <li><a href="My-web.html">Find Me</a></li>
+                    <li><a href="OtherWork.html">Other Work</a></li>
+                </ul>
+            </nav>
+        </div>
+
+
+    </header>
+
+    <main>
+        <section class="links-page">
+            
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 Ekaf Eman — All worlds reflected with care.</p>
+    </footer>
+
+</body>
+</html>
